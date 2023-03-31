@@ -1,4 +1,4 @@
-### Swetrix Analytics
+### Swetrix
 Swetrix is a privacy-focused, fully cookieless and opensource web analytics platform.
 
 ### Contributions are welcome!
