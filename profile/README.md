@@ -2,7 +2,7 @@
 Swetrix is a privacy-focused, fully cookieless and opensource web analytics platform.
 
 ### Contributions are welcome!
-- 🔭 Our roadmap is public and located [here](https://github.com/orgs/Swetrix/projects/2).\
+- 🔭 Our roadmap is public and located [here](https://github.com/orgs/Swetrix/projects/7).\
 Feel free to pick any task and help us with implementing it :)
 
 - 🗣 The translations are managed via our [public Crowdin page](https://crowdin.com/project/swetrix).\
